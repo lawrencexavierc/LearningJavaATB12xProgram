@@ -8,9 +8,9 @@ public class Lab_08_Interview4_Dup {
             case 90:
                 System.out.println("90");
                 break;
-            case 90:
-                System.out.println("90");
-                break;
+            //case 90:
+              //  System.out.println("90");
+               // break;
         }
     }
 }
