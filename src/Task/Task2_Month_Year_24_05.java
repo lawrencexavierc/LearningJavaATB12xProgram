@@ -2,7 +2,7 @@ package Task;
 
 import java.util.Scanner;
 
-public class Month_Year_24_05 {
+public class Task2_Month_Year_24_05 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the Month");

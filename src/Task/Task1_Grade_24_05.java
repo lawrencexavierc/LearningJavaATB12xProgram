@@ -2,7 +2,7 @@ package Task;
 
 import java.util.Scanner;
 
-public class Grade_24_05 {
+public class Task1_Grade_24_05 {
     public static void main(String[] args) {
         //step 1: scanner class
         //step 2: logic
